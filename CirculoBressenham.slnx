@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CirculoBressenham/CirculoBressenham.vcxproj" Id="940224df-50d4-4f94-8eee-3c6916ebbdf0" />
+</Solution>
